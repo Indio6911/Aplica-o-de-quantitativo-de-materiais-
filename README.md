@@ -1,6 +1,6 @@
-# Quantitativo de materias em uma obra na Engenharia civil:
+# Quantitativo de materias elétricoa em uma obra na Engenharia civil:
 
-  O Quantitativo de Materiais é um levantamento dos materiais de construção que serão
+  O Quantitativo de Materiais elétricos  é um levantamento dos materiais de construção que serão
 utilizados durante as etapas de execução da obra, que são definidas de acordo com o Projeto
 Executivo. Para que o quantitativo seja feito de forma correta, é necessário que todos os
 projetos da construção estejam bem definidos e detalhados.
