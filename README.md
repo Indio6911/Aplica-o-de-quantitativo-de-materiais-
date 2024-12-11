@@ -11,11 +11,11 @@ Obra apresentem resultados que não condizem com a realidade do projeto.
 
 ## Objetivo do projeto 
   Objetivos Gerais
-Avaliar a precisão dos métodos de quantificação de materiais: Analisar diferentes métodos utilizados para calcular a quantidade de materiais em obras de construção civil, comparando sua precisão e eficiência.
+Avaliar a precisão dos métodos de quantificação de materiais: Analisar diferentes métodos utilizados para calcular a quantidade de materiais elétricos em obras de construção civil, comparando sua precisão e eficiência.
 Desenvolvimentos de ferramentas e softwares para otimização do quantitativo: Propor novas ferramentas e softwares que auxiliem na automatização e precisão dos cálculos de quantitativo, reduzindo a margem de erro e otimizando o processo.
 Analisar o impacto de erros no quantitativo sobre o custo e o prazo das obras: Quantificar o impacto financeiro e temporal de erros no quantitativo de materiais em diferentes tipos de obras.
 Objetivos Específicos
-Comparar a eficiência de métodos manuais e automatizados para o cálculo de quantitativos: Avaliar a precisão, tempo de execução e custo de diferentes métodos, como planilhas eletrônicas, softwares especializados e BIM.
+Comparar a eficiência de métodos manuais e automatizados para o cálculo de quantitativos de materiais elétricos : Avaliar a precisão, tempo de execução e custo de diferentes métodos, como planilhas eletrônicas, softwares especializados e BIM.
 Identificar os principais fatores que influenciam a precisão do quantitativo: Analisar o impacto de fatores como a qualidade dos projetos, a experiência dos profissionais envolvidos e as características dos materiais utilizados.
 Desenvolver um modelo matemático para estimar o impacto de alterações no projeto sobre o quantitativo: Criar um modelo que permita simular diferentes cenários de alterações no projeto e avaliar seu impacto no consumo de materiais.
 Avaliar a relação entre a precisão do quantitativo e a satisfação do cliente: Verificar se existe uma correlação entre a precisão do quantitativo e a satisfação do cliente com o resultado final da obra.
