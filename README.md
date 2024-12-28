@@ -23,3 +23,7 @@ Exemplo de Objetivo Completo:
 Objetivo: Desenvolver e validar um modelo matemático para otimização do quantitativo de materiais em obras de edificações residenciais, considerando as especificidades dos projetos, as características dos materiais e as incertezas inerentes ao processo construtivo, com o objetivo de reduzir custos, minimizar desperdícios e otimizar o tempo de execução das obras.
 Ao definir o objetivo da pesquisa, é importante considerar os seguintes aspectos:
 
+
+[python](Linguagem-Python-scaled.jpg)
+
+
