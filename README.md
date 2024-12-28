@@ -24,6 +24,6 @@ Objetivo: Desenvolver e validar um modelo matemático para otimização do quant
 Ao definir o objetivo da pesquisa, é importante considerar os seguintes aspectos:
 
 
-[python](Linguagem-Python-scaled.jpg)
+![python](Linguagem-Python-scaled.jpg)
 
 
