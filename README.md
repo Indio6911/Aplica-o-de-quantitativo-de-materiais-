@@ -24,7 +24,7 @@ Objetivo: Desenvolver e validar um modelo matemático para otimização do quant
 
 ![python](Linguagem-Python-scaled.jpg)
 
-## evolução do projeto 
+## Evolução do projeto 
   A proposta do programa, ainda em fase inicial, consiste em apresentar o quantitativo de materiais elétricos de uma obra através da aplicação da linguagem Python como mecanismo de promover o acompanhamento da obra emitindo alertas para a tomada de decisões. Imagine que você está trabalhando em um projeto de construção e precisa estimar a quantidade de tijolos necessários para levantar as paredes. Com Python, você pode criar um script que leia as dimensões das paredes (altura, largura) e calcule automaticamente o número de tijolos com base na área total a ser coberta.
 Esse script pode ser adaptado para outros materiais, como blocos de concreto, telhas, vergalhões, etc.
 
