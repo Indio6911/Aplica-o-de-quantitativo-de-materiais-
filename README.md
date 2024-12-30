@@ -21,9 +21,11 @@ Desenvolver um modelo matemático para estimar o impacto de alterações no proj
 Avaliar a relação entre a precisão do quantitativo e a satisfação do cliente: Verificar se existe uma correlação entre a precisão do quantitativo e a satisfação do cliente com o resultado final da obra.
 Exemplo de Objetivo Completo:
 Objetivo: Desenvolver e validar um modelo matemático para otimização do quantitativo de materiais em obras de edificações residenciais, considerando as especificidades dos projetos, as características dos materiais e as incertezas inerentes ao processo construtivo, com o objetivo de reduzir custos, minimizar desperdícios e otimizar o tempo de execução das obras.
-Ao definir o objetivo da pesquisa, é importante considerar os seguintes aspectos:
-
 
 ![python](Linguagem-Python-scaled.jpg)
 
+## evolução do projeto 
+  A proposta do programa, ainda em fase inicial, consiste em apresentar o quantitativo de materiais elétricos de uma obra através da aplicação da linguagem Python como mecanismo de promover o acompanhamento da obra emitindo alertas para a tomada de decisões. Imagine que você está trabalhando em um projeto de construção e precisa estimar a quantidade de tijolos necessários para levantar as paredes. Com Python, você pode criar um script que leia as dimensões das paredes (altura, largura) e calcule automaticamente o número de tijolos com base na área total a ser coberta.
+Esse script pode ser adaptado para outros materiais, como blocos de concreto, telhas, vergalhões, etc.
 
+Foi se percebido ao logo de nossa pesquisa  que precisava se focar em um so material na contrução civil,por isso, foi se definido ao contrario da pesquisa inicial fazer um codigo que auxiliasse na parte de quantitativos de materiais elétricos para que com certas quantidades de pontos elétricos possamos definir quantos de materiais totais se utilizam na obra. Com a Orientação do objeto pode-se definir class com características distindas umas das outras. sendo assim a rede de petri nos auxiliou em uma avanço para pesquisa de forma que conseguimos exergar uma variedade na forma que podiamos utilizar nosso programa 
